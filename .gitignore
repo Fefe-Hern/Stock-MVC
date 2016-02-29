@@ -1,0 +1,24 @@
+*.class
+.metadata/
+.recommenders
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/ClassWork/MVC Project/nbproject/private/
+/ClassWork/MVC Project/build/
+/ClassWork/MVC Design Pattern/nbproject/private/
+/ClassWork/MVC Design Pattern/build/
+/ClassWork/Strategy Design Pattern (2-23-16)/nbproject/private/
+/ClassWork/Strategy Design Pattern (2-23-16)/build/
+/ClassWork/Decorator Pattern (2-25-16)/nbproject/private/
+/ClassWork/Decorator Pattern (2-25-16)/build/
+/ClassWork/Design Patterns/nbproject/private/
+/ClassWork/Design Patterns/build/
